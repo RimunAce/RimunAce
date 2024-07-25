@@ -7,8 +7,8 @@ I'm "Respire". I started creating Discord bots for fun during early 2018 and con
 
 ## 🌐 Website:
 
-- <a href="https://respy.tech/" target="_blank">respy.tech</a> || GitHub Repo: <a href="https://github.com/RimunAce/respy-tech" target="_blank">[CLICK ME]</a>
-
+- [respy.tech](https://respy.tech/) || GitHub Repo: [CLICK ME](https://github.com/RimunAce/respy-tech)
+ 
 ## 📢 Contacts:
 
 - [Email](mailto:contact@respy.tech)
