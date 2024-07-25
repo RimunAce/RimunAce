@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hello, World!
+I'm "Respire". I started creating Discord bots for fun during early 2018 and continued until late 2021. Most of the time, I used **JavaScript**, which has become my go-to programming language of creation. Currently, I'm just a person that still lingers around to discover amazing projects and stuff created by the community.
 
-<!--
-**RimunAce/RimunAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎉 Dumping everything I make with half-hearted effort.
+- 🚀 Not entirely good or bad. Just being in between.
+- 🤖 I took interest in Generative AI for fun.
 
-Here are some ideas to get you started:
+## 🌐 Website:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [respy.tech](https://respy.tech/)
+
+## 📢 Contacts:
+
+- [Email](mailto:contact@respy.tech)
+- [GitHub](https://github.com/RimunAce)
+- [Discord](http://discordapp.com/users/188610034849021952)
