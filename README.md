@@ -16,5 +16,5 @@ I'm "Respire". I started creating Discord bots for fun during early 2018 and con
 - [Discord](http://discordapp.com/users/188610034849021952)
 
 <p align="center">
- <img width="960" height="360" src="assets/bsnnrt.png" alt="thank-you"/>
+ <img width="640" height="240" src="assets/bsnnrt.png" alt="thank-you"/>
 </p>
