@@ -14,3 +14,7 @@ I'm "Respire". I started creating Discord bots for fun during early 2018 and con
 - [Email](mailto:contact@respy.tech)
 - [GitHub](https://github.com/RimunAce)
 - [Discord](http://discordapp.com/users/188610034849021952)
+
+<p align="center">
+ <img width="960" height="360" src="assets/bsnnrt.png" alt="thank-you"/>
+</p>
