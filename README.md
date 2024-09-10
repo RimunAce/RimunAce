@@ -23,7 +23,7 @@
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">👋 Anyway, Hi!</h2>
 
 <p align="center">
-  <strong>Your one-stop destination for innovative projects and creative coding!</strong>
+  <strong>https://respy.tech | https://rimunace.xyz | https://respire.my</strong>
 </p>
 
 <div align="center">
