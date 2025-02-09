@@ -10,7 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimunace&theme=radical" alt="GitHub Streak" />
 </div>
 <p align="center">
-  <strong>https://respy.tech | https://rimunace.xyz | https://respire.my</strong>
+  <strong>https://respy.tech | https://rimunace.xyz | https://respire.my | https://bepasted.com</strong>
 </p>
 
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">🚀 About Me</h2>
