@@ -31,7 +31,12 @@
       </td>
       <td align="center" width="150">
         <a href="https://bepasted.com">
-          <img src="https://cdn.apis.rocks/bepasted.png" alt="Be Pasted Logo" width="100" title="Visit Be Pasted" />
+          <img src="https://cdn.apis.rocks/bepasted.png" alt="BePasted Logo" width="100" title="Visit Be Pasted" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://api.rimunace.xyz">
+          <img src="https://cdn.apis.rocks/rimunace.png" alt="Rimunace API Logo" width="100" title="Visit Rimunace API" />
         </a>
       </td>
     </tr>
@@ -40,12 +45,14 @@
       <td align="center"><a href="https://rimunace.xyz">rimunace.xyz</a></td>
       <td align="center"><a href="https://respire.my">respire.my</a></td>
       <td align="center"><a href="https://bepasted.com">bepasted.com</a></td>
+      <td align="center"><a href="https://api.rimunace.xyz">api.rimunace.xyz</a></td>
     </tr>
     <tr>
       <td align="center">My Org's Website</td>
       <td align="center">My Carrd Profile</td>
       <td align="center">Another Profile Page</td>
       <td align="center">Text & Code Sharing</td>
+      <td align="center">AI API Service</td>
     </tr>
   </table>
 </div>
