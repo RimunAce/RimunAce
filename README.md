@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <hr>
@@ -9,9 +8,47 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimunace&theme=radical" alt="GitHub Streak" />
 </div>
-<p align="center">
-  <strong>https://respy.tech | https://rimunace.xyz | https://respire.my | https://bepasted.com</strong>
-</p>
+
+<div align="center">
+  <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">🌐 My Websites</h2>
+  
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="150">
+        <a href="https://respy.tech">
+          <img src="https://cdn.apis.rocks/respy-tech.jpeg" alt="Respy Tech Logo" width="100" title="Visit Respy Tech" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://rimunace.xyz">
+          <img src="https://cdn.apis.rocks/shikanoko.jpg" alt="Rimunace Logo" width="100" title="Visit Rimunace" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://respire.my">
+          <img src="https://cdn.apis.rocks/teto.jpg" alt="Respire My Logo" width="100" title="Visit Respire My" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://bepasted.com">
+          <img src="https://cdn.apis.rocks/bepasted.png" alt="Be Pasted Logo" width="100" title="Visit Be Pasted" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://respy.tech">respy.tech</a></td>
+      <td align="center"><a href="https://rimunace.xyz">rimunace.xyz</a></td>
+      <td align="center"><a href="https://respire.my">respire.my</a></td>
+      <td align="center"><a href="https://bepasted.com">bepasted.com</a></td>
+    </tr>
+    <tr>
+      <td align="center">My Org's Website</td>
+      <td align="center">My Carrd Profile</td>
+      <td align="center">Another Profile Page</td>
+      <td align="center">Text & Code Sharing</td>
+    </tr>
+  </table>
+</div>
 
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">🚀 About Me</h2>
 
@@ -25,13 +62,13 @@ Fine, fine, fine. I'm not saying anything. I'm just saying that you probably hav
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
     <img src="https://img.shields.io/badge/Squirrel-8B0000?style=for-the-badge&logo=undefined&logoColor=white" alt="Squirrel Badge" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
   </div>
 </div>
 
-
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">📫 Get in Touch</h2>
 
-Feel free to reach out to me via [email](mailto:hi@respire.my) or connect with me on [Discord](https://discordapp.com/users/188610034849021952).
+Feel free to reach out to me via [email](mailto:hi@respire.my) (hi@respire.my) or connect with me on [Discord](https://discordapp.com/users/188610034849021952).
 
 </div>
 
