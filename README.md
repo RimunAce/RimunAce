@@ -31,7 +31,7 @@ Fine, fine, fine. I'm not saying anything. I'm just saying that you probably hav
 
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">📫 Get in Touch</h2>
 
-Feel free to reach out to me via [email](mailto:contact@respy.tech) or connect with me on [Discord](https://discordapp.com/users/188610034849021952).
+Feel free to reach out to me via [email](mailto:hi@respire.my) or connect with me on [Discord](https://discordapp.com/users/188610034849021952).
 
 </div>
 
