@@ -20,11 +20,6 @@
         </a>
       </td>
       <td align="center" width="150">
-        <a href="https://rimunace.xyz">
-          <img src="https://cdn.apis.rocks/shikanoko.jpg" alt="Rimunace Logo" width="100" title="Visit Rimunace" />
-        </a>
-      </td>
-      <td align="center" width="150">
         <a href="https://respire.my">
           <img src="https://cdn.apis.rocks/teto.jpg" alt="Respire My Logo" width="100" title="Visit Respire My" />
         </a>
@@ -42,15 +37,13 @@
     </tr>
     <tr>
       <td align="center"><a href="https://respy.tech">respy.tech</a></td>
-      <td align="center"><a href="https://rimunace.xyz">rimunace.xyz</a></td>
       <td align="center"><a href="https://respire.my">respire.my</a></td>
       <td align="center"><a href="https://bepasted.com">bepasted.com</a></td>
       <td align="center"><a href="https://api.rimunace.xyz">api.rimunace.xyz</a></td>
     </tr>
     <tr>
       <td align="center">My Org's Website</td>
-      <td align="center">My Carrd Profile</td>
-      <td align="center">Another Profile Page</td>
+      <td align="center">My Profile Page</td>
       <td align="center">Text & Code Sharing</td>
       <td align="center">AI API Service</td>
     </tr>
