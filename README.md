@@ -4,6 +4,8 @@
 
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">👋 Anyway, Hi!</h2>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/188610034849021952)](https://discord.com/users/188610034849021952)
+
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimunace&theme=radical" alt="GitHub Streak" />
