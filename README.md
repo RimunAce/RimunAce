@@ -5,6 +5,7 @@
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">👋 Anyway, Hi!</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/188610034849021952)](https://discord.com/users/188610034849021952)
+![iW8DBnw](https://github.com/user-attachments/assets/ba564462-3adb-4de3-8e1d-5583d02679c3)
 
 <div align="center">
   <br>
