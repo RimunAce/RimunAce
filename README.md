@@ -1,10 +1,11 @@
+PFP: [冒険者C](https://www.pixiv.net/en/users/29874909) // Partner & Friend | GFX Artist | Banner: [Iyouka](https://x.com/iyouka_)
+
 <div align="center">
 
 <hr>
 
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">👋 Anyway, Hi!</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/188610034849021952)](https://discord.com/users/188610034849021952)
 ![iW8DBnw](https://github.com/user-attachments/assets/ba564462-3adb-4de3-8e1d-5583d02679c3)
 
 <div align="center">
@@ -72,6 +73,7 @@ Fine, fine, fine. I'm not saying anything. I'm just saying that you probably hav
 <h2 style="font-family: 'Verdana', sans-serif; color: #FF5733; text-shadow: 2px 2px 0px black;">📫 Get in Touch</h2>
 
 Feel free to reach out to me via [email](mailto:hi@respire.my) (hi@respire.my) or connect with me on [Discord](https://discordapp.com/users/188610034849021952).
+[![Discord Presence](https://lanyard.cnrad.dev/api/188610034849021952)](https://discord.com/users/188610034849021952)
 
 </div>
 
