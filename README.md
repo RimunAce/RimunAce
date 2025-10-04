@@ -3,7 +3,7 @@
 
 
 ### ✦━━━━・𝐂𝐑𝐄𝐃𝐈𝐓𝐒・━━━━✦
-- Profile Picture: [冒険者 C](https://www.pixiv.net/en/users/29874909)
+- Profile Picture: [leize](https://x.com/leize_yi)
 - Partner & Friend | GFX Artist | Banner: [Iyouka](https://x.com/iyouka_)
 
 ### ✦━━━━・𝐓𝐎𝐎𝐋𝐒・━━━━✦
@@ -57,6 +57,52 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimunace&layout=compact&theme=merko" alt="Top Languages" width="355" />
         </a>
     </div>
+</div>
+
+<div align="center">
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="150">
+        <a href="https://respy.tech">
+          <img src="https://cdn.apis.rocks/respy-tech.jpeg" alt="Respy Tech Logo" width="100" title="Visit Respy Tech" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://respire.my">
+          <img src="https://cdn.apis.rocks/teto.jpg" alt="Respire My Logo" width="100" title="Visit Respire My" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://bepasted.com">
+          <img src="https://cdn.apis.rocks/bepasted.png" alt="BePasted Logo" width="100" title="Visit Be Pasted" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://api.rimunace.xyz">
+          <img src="https://cdn.apis.rocks/rimunace.png" alt="Rimunace API Logo" width="100" title="Visit Rimunace API" />
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://apis.rocks">
+          <img src="https://cdn.apis.rocks/icon/favicon.ico" alt="APIS ROCKS Logo" width="100" title="Visit Apis.Rocks" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://respy.tech">respy.tech</a></td>
+      <td align="center"><a href="https://respire.my">respire.my</a></td>
+      <td align="center"><a href="https://bepasted.com">bepasted.com</a></td>
+      <td align="center"><a href="https://api.rimunace.xyz">api.rimunace.xyz</a></td>
+        <td align="center"><a href="https://apis.rocks">apis.rocks</a></td>
+    </tr>
+    <tr>
+      <td align="center">My Org's Website</td>
+      <td align="center">My Profile Page</td>
+      <td align="center">Text & Code Sharing</td>
+      <td align="center">AI API Service</td>
+      <td align="center">Generic API + AI API Service</td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
