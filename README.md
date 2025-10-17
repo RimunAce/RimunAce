@@ -16,8 +16,8 @@
 ```
 ------------------------------------
 |  be/        |  respire/          |
-|  ├── boxed  |  └── non-existent  |  // I love you
-|  ├── reader |  └── my            |
+|  ├── boxed  |  ├── non-existent  |  // I love you
+|  ├── reader |  ├── my            |
 |  └── pasted |  └── discord       |
 ------------------------------------
 ```
