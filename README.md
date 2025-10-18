@@ -3,7 +3,7 @@
 
 ---
 
-◈ Profile Picture: [leize](https://x.com/leize_yi)
+◈ Profile Picture: [betti](https://x.com/xx_betti)
 
 ◈ 最高の仲間: [Iyouka](https://x.com/iyouka_)
 
