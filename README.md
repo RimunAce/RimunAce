@@ -3,7 +3,7 @@
 
 ---
 
-◈ Profile Picture: [betti](https://x.com/xx_betti)
+◈ Profile Picture: [urururike](https://x.com/urururike/status/1987548818070454318)
 
 ◈ 最高の仲間: [Iyouka](https://x.com/iyouka_)
 
