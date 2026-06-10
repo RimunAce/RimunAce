@@ -3,7 +3,7 @@
 
 ---
 
-◈ Profile Picture: [urururike](https://x.com/urururike/status/1987548818070454318)
+◈ Profile Picture: [ガオン]([https://x.com/urururike/status/1987548818070454318](https://www.pixiv.net/en/users/51995285))
 
 ◈ 最高の仲間: [Iyouka](https://x.com/iyouka_)
 
@@ -16,8 +16,8 @@
 ```
 ------------------------------------
 |  be/        |  respire/          |
-|  ├── boxed  |  ├── non-existent  |  // I love you
-|  ├── reader |  ├── my            |
-|  └── pasted |  └── discord       |
+|  ├── happy  |  ├── non-existent  |  // I love you
+|  ├── funny  |  ├── my            |
+|  └── you    |  └── discord       |
 ------------------------------------
 ```
