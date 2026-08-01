@@ -3,7 +3,7 @@
 
 ---
 
-◈ Profile Picture: [ガオン]([https://x.com/urururike/status/1987548818070454318](https://www.pixiv.net/en/users/51995285))
+◈ Profile Picture: [시안색 영혼](https://x.com/flyby_artworks/status/2080531245474394379/photo/1)
 
 ◈ 最高の仲間: [Iyouka](https://x.com/iyouka_)
 
