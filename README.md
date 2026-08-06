@@ -3,7 +3,7 @@
 
 ---
 
-◈ Profile Picture: [시안색 영혼](https://x.com/flyby_artworks/status/2080531245474394379/photo/1)
+◈ Profile Picture: I can't find. Sadly.
 
 ◈ 最高の仲間: [Iyouka](https://x.com/iyouka_)
 
