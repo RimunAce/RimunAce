@@ -1,5 +1,5 @@
 
-<img align="right" src="https://cdn.apis.rocks/Kepala-Kotak.webp" alt="right" height="200"/>
+<img align="right" src="https://cdn.apis.rocks/server-icon.png" alt="right" height="200"/>
 
 ---
 
