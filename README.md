@@ -1,5 +1,5 @@
 
-<img align="right" src="https://cdn.apis.rocks/server-icon.png" alt="right" height="200"/>
+<img align="right" src="https://cdn.apis.rocks/Stay%20Gold%20Horse%20GIF.gif" alt="right" height="200"/>
 
 ---
 
